@@ -8,4 +8,4 @@
 
 +  To learn more about working at Dropbox, download the file here
 
-<img src="https://github.com/ArthurFalkon/Dropbox_24/blob/main/DBD.png/>
+<img src="https://github.com/ArthurFalkon/Dropbox_24/blob/main/DBD.png"/>
